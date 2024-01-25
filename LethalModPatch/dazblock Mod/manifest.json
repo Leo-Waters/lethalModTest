@@ -1,6 +1,6 @@
 {
     "name": "HOMIE_BLOCKS",
-    "version_number": "1.0.0",
+    "version_number": "1.0.2",
     "website_url": "https://github.com/Leo-Waters/lethalModTest",
     "description": "Adds blocks of the homies",
     "dependencies": [
