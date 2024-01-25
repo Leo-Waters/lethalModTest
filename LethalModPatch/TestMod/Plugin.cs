@@ -40,19 +40,23 @@ namespace TestMod
             //items
             Item dazBlock = bundle.LoadAsset<Item>("Assets/DazBlockMod/dazblock.asset");
             Item hoggBlock = bundle.LoadAsset<Item>("Assets/DazBlockMod/hoggblock.asset");
+            Item tomBlock = bundle.LoadAsset<Item>("Assets/DazBlockMod/tomblock.asset");
 
 
             //register to network
             NetworkPrefabs.RegisterNetworkPrefab(dazBlock.spawnPrefab);
             NetworkPrefabs.RegisterNetworkPrefab(hoggBlock.spawnPrefab);
+            NetworkPrefabs.RegisterNetworkPrefab(tomBlock.spawnPrefab);
 
-            //fix audio
+            // fix audio
             Utilities.FixMixerGroups(dazBlock.spawnPrefab);
             Utilities.FixMixerGroups(hoggBlock.spawnPrefab);
+            Utilities.FixMixerGroups(tomBlock.spawnPrefab);
 
             //registers as scarp
             Items.RegisterScrap(dazBlock, 1000, Levels.LevelTypes.All);
             Items.RegisterScrap(hoggBlock, 1000, Levels.LevelTypes.All);
+            Items.RegisterScrap(tomBlock, 1000, Levels.LevelTypes.All);
 
 
             //TerminalNode node = ScriptableObject.CreateInstance<TerminalNode>();

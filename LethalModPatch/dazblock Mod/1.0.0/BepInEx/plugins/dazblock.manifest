@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3402278616
+CRC: 541028590
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0cf84490a720360d155b4ec95af05dc1
+    Hash: 696f69681204430076ef3c6b4850b23c
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 21f9e51a805b0fc745769b6e4ff25d0c
+    Hash: 8573511da9c4e22b1b8de5c718caa8e4
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 0cf84490a720360d155b4ec95af05dc1
+    Hash: 696f69681204430076ef3c6b4850b23c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -35,11 +35,11 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: c30496d6ae6d6f907456e10a94e01ec6, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 3c36d0a92cbb1f26a39169ef0eae393a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3d0cf24d2ccc3b7eab72048d0f57c437, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 213
@@ -57,4 +57,6 @@ Assets:
 - Assets/DazBlockMod/hoggblock.asset
 - Assets/DazBlockMod/HoggBlock.prefab
 - Assets/DazBlockMod/dazblock.asset
+- Assets/DazBlockMod/TomBlock.prefab
+- Assets/DazBlockMod/tomblock.asset
 Dependencies: []

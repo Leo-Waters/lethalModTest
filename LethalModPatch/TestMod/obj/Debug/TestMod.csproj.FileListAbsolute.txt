@@ -1,0 +1,15 @@
+C:\Users\Harvey\Documents\GitHub\lethalModTest\LethalModPatch\TestMod\bin\Debug\TestMod.dll
+C:\Users\Harvey\Documents\GitHub\lethalModTest\LethalModPatch\TestMod\bin\Debug\TestMod.pdb
+C:\Users\Harvey\Documents\GitHub\lethalModTest\LethalModPatch\TestMod\bin\Debug\0Harmony.dll
+C:\Users\Harvey\Documents\GitHub\lethalModTest\LethalModPatch\TestMod\bin\Debug\Assembly-CSharp.dll
+C:\Users\Harvey\Documents\GitHub\lethalModTest\LethalModPatch\TestMod\bin\Debug\BepInEx.dll
+C:\Users\Harvey\Documents\GitHub\lethalModTest\LethalModPatch\TestMod\bin\Debug\BepInEx.Preloader.dll
+C:\Users\Harvey\Documents\GitHub\lethalModTest\LethalModPatch\TestMod\bin\Debug\LethalLib.dll
+C:\Users\Harvey\Documents\GitHub\lethalModTest\LethalModPatch\TestMod\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Harvey\Documents\GitHub\lethalModTest\LethalModPatch\TestMod\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Harvey\Documents\GitHub\lethalModTest\LethalModPatch\TestMod\bin\Debug\UnityEngine.dll
+C:\Users\Harvey\Documents\GitHub\lethalModTest\LethalModPatch\TestMod\obj\Debug\TestMod.csproj.AssemblyReference.cache
+C:\Users\Harvey\Documents\GitHub\lethalModTest\LethalModPatch\TestMod\obj\Debug\TestMod.csproj.CoreCompileInputs.cache
+C:\Users\Harvey\Documents\GitHub\lethalModTest\LethalModPatch\TestMod\obj\Debug\TestMod.csproj.CopyComplete
+C:\Users\Harvey\Documents\GitHub\lethalModTest\LethalModPatch\TestMod\obj\Debug\TestMod.dll
+C:\Users\Harvey\Documents\GitHub\lethalModTest\LethalModPatch\TestMod\obj\Debug\TestMod.pdb

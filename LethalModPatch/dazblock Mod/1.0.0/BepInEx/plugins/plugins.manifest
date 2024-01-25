@@ -1,10 +1,10 @@
 ManifestFileVersion: 0
-CRC: 1421616430
+CRC: 3477513503
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: modassets
+      Name: dazblock
       Dependencies: {}
     Info_1:
-      Name: dazblock
+      Name: modassets
       Dependencies: {}
