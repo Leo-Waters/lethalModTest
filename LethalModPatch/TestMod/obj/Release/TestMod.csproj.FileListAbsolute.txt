@@ -1,0 +1,15 @@
+C:\Users\r2leo\Documents\GitHub\lethalModTest\LethalModPatch\TestMod\bin\Release\TestMod.dll
+C:\Users\r2leo\Documents\GitHub\lethalModTest\LethalModPatch\TestMod\bin\Release\TestMod.pdb
+C:\Users\r2leo\Documents\GitHub\lethalModTest\LethalModPatch\TestMod\bin\Release\0Harmony.dll
+C:\Users\r2leo\Documents\GitHub\lethalModTest\LethalModPatch\TestMod\bin\Release\Assembly-CSharp.dll
+C:\Users\r2leo\Documents\GitHub\lethalModTest\LethalModPatch\TestMod\bin\Release\BepInEx.dll
+C:\Users\r2leo\Documents\GitHub\lethalModTest\LethalModPatch\TestMod\bin\Release\BepInEx.Preloader.dll
+C:\Users\r2leo\Documents\GitHub\lethalModTest\LethalModPatch\TestMod\bin\Release\LethalLib.dll
+C:\Users\r2leo\Documents\GitHub\lethalModTest\LethalModPatch\TestMod\bin\Release\UnityEngine.AssetBundleModule.dll
+C:\Users\r2leo\Documents\GitHub\lethalModTest\LethalModPatch\TestMod\bin\Release\UnityEngine.CoreModule.dll
+C:\Users\r2leo\Documents\GitHub\lethalModTest\LethalModPatch\TestMod\bin\Release\UnityEngine.dll
+C:\Users\r2leo\Documents\GitHub\lethalModTest\LethalModPatch\TestMod\obj\Release\TestMod.csproj.AssemblyReference.cache
+C:\Users\r2leo\Documents\GitHub\lethalModTest\LethalModPatch\TestMod\obj\Release\TestMod.csproj.CoreCompileInputs.cache
+C:\Users\r2leo\Documents\GitHub\lethalModTest\LethalModPatch\TestMod\obj\Release\TestMod.csproj.CopyComplete
+C:\Users\r2leo\Documents\GitHub\lethalModTest\LethalModPatch\TestMod\obj\Release\TestMod.dll
+C:\Users\r2leo\Documents\GitHub\lethalModTest\LethalModPatch\TestMod\obj\Release\TestMod.pdb
